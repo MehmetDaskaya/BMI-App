@@ -1,6 +1,6 @@
 # BMI_calculator
 
-<h2> Netlify Live Link: calculateanybmi.netlify.app </h2>
+<h2> Netlify Live Link: https://calculateanybmi.netlify.app </h2>
 
 ## 🔖 About
 
