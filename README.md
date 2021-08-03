@@ -1,6 +1,8 @@
 # BMI_calculator
 
 <h2> Netlify Live Link: https://calculateanybmi.netlify.app </h2>
+<img src="https://raw.githubusercontent.com/Nerimb/BMI-App/main/src/images/bmi.PNG" alt="design">
+
 
 ## 🔖 About
 
